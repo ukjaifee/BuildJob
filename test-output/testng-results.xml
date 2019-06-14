@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2019-06-07T14:14:33Z" finished-at="2019-06-07T14:14:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2019-06-07T14:14:33Z" finished-at="2019-06-07T14:14:33Z">
+      <class name="com.maven.Build.BuildJob">
+        <test-method status="PASS" signature="buildingJob()[pri:0, instance:com.maven.Build.BuildJob@6d00a15d]" name="buildingJob" duration-ms="18" started-at="2019-06-07T14:14:33Z" finished-at="2019-06-07T14:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildingJob -->
+      </class> <!-- com.maven.Build.BuildJob -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
